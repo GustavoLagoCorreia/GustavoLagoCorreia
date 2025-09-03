@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! i'm Gustavo Correia👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCorreia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCorreia&layout=compact&theme=tokyonight&sizeWe)
 
 <!--
 **GustavoLagoCorreia/GustavoLagoCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
