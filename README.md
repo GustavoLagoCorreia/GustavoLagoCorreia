@@ -26,9 +26,10 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-## Projetos Criativos
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
 <!--
+## Projetos Criativos
+
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
 1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
