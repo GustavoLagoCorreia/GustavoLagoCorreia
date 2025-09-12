@@ -46,4 +46,4 @@
 [![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLagoCorreia\&rank_icon=percentile)
