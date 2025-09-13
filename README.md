@@ -39,13 +39,12 @@
 ## Vamos Criar Algo Incrível! 💫
 
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
-
+<!--
 ## Vamos Conectar!
 
 [![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
 [![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-l-correia-420289201" alt="LinkedIn"/></a>
-
+[![Linkedin](https://img.shields.io/https://www.linkedin.com/in/gustavo-l-correia-420289201?style=social)]({Gustavo L Correia})
+-->
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLagoCorreia\&rank_icon=percentile)
