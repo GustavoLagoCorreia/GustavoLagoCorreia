@@ -47,4 +47,4 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
 [![Linkedin](https://img.shields.io/https://www.linkedin.com/in/gustavo-l-correia-420289201?style=social)]({Gustavo L Correia})
 -->
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLagoCorreia\&rank_icon=percentile)
+![Gustavo Lago Correia GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLagoCorreia\&rank_icon=percentile)
